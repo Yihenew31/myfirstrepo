@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 { int n=2;
- int name;
+ string name;
  cout<<"enter your name";
- cin>>name
+ cin>>name;
+ cout<<"your name is: "<<name;
  
  if (n<3){
   
