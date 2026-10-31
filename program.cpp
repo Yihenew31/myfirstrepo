@@ -5,7 +5,7 @@ int main()
  int name;
  cout<<"enter your name";
  cin>>name
- cout<<"welcome here to the github project center";
+ 
  if (n<3){
   
    cout<<"number is lower than 3";
