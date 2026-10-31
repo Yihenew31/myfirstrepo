@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 { int n=2;
- cout<<"hello world";
+ int name;
+ cout<<"enter your name";
+ cin>>name
  cout<<"welcome here to the github project center";
  if (n<3){
   
